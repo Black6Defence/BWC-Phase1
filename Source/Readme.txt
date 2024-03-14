@@ -1,0 +1,1 @@
+This is the source folder for the BWC integrated product.  All scripts, setup etc. should go here.
