@@ -1,0 +1,3 @@
+[submodule "Source/BWC_Phase1_DataHarvester"]
+	path = Source/BWC_Phase1_DataHarvester
+	url = https://github.com/Black6Defence/BWC_Phase1_DataHarvester.git
